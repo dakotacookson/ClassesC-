@@ -1,0 +1,11 @@
+G:\workspace\classesc#\bin\Debug\netcoreapp2.2\classesc#.deps.json
+G:\workspace\classesc#\bin\Debug\netcoreapp2.2\classesc#.runtimeconfig.json
+G:\workspace\classesc#\bin\Debug\netcoreapp2.2\classesc#.runtimeconfig.dev.json
+G:\workspace\classesc#\bin\Debug\netcoreapp2.2\classesc#.dll
+G:\workspace\classesc#\bin\Debug\netcoreapp2.2\classesc#.pdb
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.csprojAssemblyReference.cache
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.csproj.CoreCompileInputs.cache
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.AssemblyInfoInputs.cache
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.AssemblyInfo.cs
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.dll
+G:\workspace\classesc#\obj\Debug\netcoreapp2.2\classesc#.pdb
